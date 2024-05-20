@@ -1,5 +1,6 @@
 package com.xin.test01;
 
+// 变量
 public class Variable {
     public static void main(String[] args) {
 
@@ -23,6 +24,6 @@ public class Variable {
         System.out.println("a:" + a + "b:" + b); // a: 10, b: 20
 
         int c, d = 99;
-        System.out.println("c:" + c + "d:" + d); // Variable 'c' might not have been initialized, e没有赋值,只为d赋值了
+       // System.out.println("c:" + c + "d:" + d); // Variable 'c' might not have been initialized, e没有赋值,只为d赋值了
     }
 }
