@@ -3,7 +3,7 @@ package com.xin.test01;
 public class DataType {
     public static void main(String[] args) {
 
-        // 基本数据类型
+        // 基本数据类型1
         // 1.整数类型
         byte age = 18; // 范围: -128 ~ 127
         short s = 20000; // 范围: 正负约3万
